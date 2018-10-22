@@ -1,0 +1,36 @@
+\newpage
+\begin{center}
+\thispagestyle{empty}
+\Large{\textbf{VISVESVARAYA TECHNOLOGICAL UNIVERSITY}}\\
+\large{\textbf{BELAGAVI - 590018}}\\[0.5cm]
+\includegraphics[scale=0.25]{project/images/vtu}\\
+\Large{\textbf{JSS MAHAVIDYAPEETHA}}\\
+\vspace{0.5cm}
+\Large{\textbf{SRI JAYACHAMARAJENDRA COLLEGE OF ENGINEERING}} \\ 
+\large{\textbf{MYSURU - 570006}}\\[0.5cm]
+\includegraphics[scale=0.9]{project/images/sjce}\\
+\large{A Project Report on}\\
+\large{\textsc{\textbf{SMART WATER QUALITY MONITERING SYSTEM USING IoT}}}\\[0.5cm]
+\large{Submitted in partial fulfilment for the award of the degree of\\
+\textbf{Bachelor of Engineering (B.E.)} in\\
+\textbf{Electronics and Communication Engineering}}\\
+\vspace{0.2cm}
+Submitted By\\
+\begin{table}[h]
+\centering
+\large{
+\begin{tabular}{| >{\bfseries} l | c>{\bfseries}r|}
+\hline
+G ABHILASH BHARGAVA SAI & & 4JC13EC033\\\hline G RAVINDRA REDDY & & 4JC13EC034\\\hline IMMANI MAHESH KUMAR & & 4JC13EC041\\\hline VINAY KUMAR R & & 4JC13EC121\\
+\hline
+\end{tabular}}
+\end{table}
+Under the Guidance of\\
+\large{\textbf{Mr. V Nattarasu}}\\
+\large{\textbf{Associate Professor}}\\[0.5cm]
+\large{\textbf{DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING}}\\
+\large{\textbf{SJCE, MYSURU - 570006}}\\
+\vspace{0.3cm}
+\large\textbf{{MAY 2017}}
+\newpage
+\end{center}

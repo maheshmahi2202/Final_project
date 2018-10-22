@@ -1,0 +1,38 @@
+\contentsline {paragraph}{}{3}{section*.1}
+\contentsline {paragraph}{}{5}{section*.2}
+\contentsline {paragraph}{}{5}{section*.3}
+\contentsline {paragraph}{}{6}{section*.4}
+\contentsline {paragraph}{}{6}{section*.5}
+\contentsline {paragraph}{}{6}{section*.6}
+\contentsline {paragraph}{}{6}{section*.7}
+\contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}PREAMBLE}{1}{subsection.1.1}
+\contentsline {paragraph}{}{1}{section*.10}
+\contentsline {paragraph}{}{1}{section*.11}
+\contentsline {subsection}{\numberline {1.2}MOTIVATION OF THE PROJECT}{1}{subsection.1.2}
+\contentsline {paragraph}{}{1}{section*.12}
+\contentsline {subsection}{\numberline {1.3}PROBLEM STATEMENT}{2}{subsection.1.3}
+\contentsline {paragraph}{}{2}{section*.13}
+\contentsline {subsection}{\numberline {1.4}PRESENT SCENARIO}{2}{subsection.1.4}
+\contentsline {paragraph}{}{2}{section*.14}
+\contentsline {subsection}{\numberline {1.5}LITERATURE SURVEY – PROPOSED SYSTEM}{2}{subsection.1.5}
+\contentsline {paragraph}{}{2}{section*.15}
+\contentsline {section}{\numberline {2}HARDWARE AND SOFTWARE DESCRIPTION}{4}{section.2}
+\contentsline {subsubsection}{\numberline {2.0.1}ARDUINO UNO}{4}{subsubsection.2.0.1}
+\contentsline {subsubsection}{\numberline {2.0.2}TECHNICAL SPECIFICATIONS}{4}{subsubsection.2.0.2}
+\contentsline {subsubsection}{\numberline {2.0.3}PINOUT DESCRIPTION}{5}{subsubsection.2.0.3}
+\contentsline {paragraph}{•}{5}{section*.16}
+\contentsline {subsubsection}{\numberline {2.0.4}Digital pins}{6}{subsubsection.2.0.4}
+\contentsline {paragraph}{•}{6}{section*.17}
+\contentsline {subsubsection}{\numberline {2.0.5}Analog pins}{6}{subsubsection.2.0.5}
+\contentsline {paragraph}{•}{6}{section*.18}
+\contentsline {subsubsection}{\numberline {2.0.6}Power pins}{7}{subsubsection.2.0.6}
+\contentsline {paragraph}{•}{7}{section*.19}
+\contentsline {subsection}{\numberline {2.1}ESP8266-12E WiFi MODULE}{7}{subsection.2.1}
+\contentsline {paragraph}{•}{7}{section*.20}
+\contentsline {paragraph}{•}{8}{section*.21}
+\contentsline {subsubsection}{\numberline {2.1.1}Features}{8}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}TEMPERATURE SENSOR LM35}{9}{subsection.2.2}
+\contentsline {paragraph}{As a temperature sensor, the circuit will read the temperature of the surrounding environment and relay this temperature to us back in degrees Celsius. The IC we used to measure the temperature is the LM35 IC integrated with the Arduino UNO to measure the temperature of the system. The Arduino UNO will then read this measured value from the LM35 (a low voltage IC, with 3 pins, uses approx. +5VDC) and translate into degrees Fahrenheit/Celsius, which we will be able to read from the computer from the Arduino serial monitor. }{9}{section*.22}
+\contentsline {paragraph}{The output pin provides an analog voltage output that is linearly proportional to the Celsius (Centigrade) temperature. Pin 2 gives an output of 1 millivolt per 0.1°C (10mV per degree). So to get the degree value in Celsius, all that must be done is to take the voltage output and divide it by 10- this give out the value degrees in Celsius. So, for example, if the output pin, pin 2, gives out a value of 315mV (0.315V), this is equivalent to a temperature of 31.5°C. }{10}{section*.23}
+\contentsline {subsubsection}{\numberline {2.2.1}PINOUT DESCRIPTION}{10}{subsubsection.2.2.1}
